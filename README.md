@@ -1,3 +1,3 @@
 # diyjigs
-Collection of jigs, fixtures made to process things
+Collection of jigs, fixtures made to process wafers, dies.
 
