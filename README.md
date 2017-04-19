@@ -1,4 +1,4 @@
-# diyjigs
+# DIYTools
 Collection of jigs, fixtures made to process wafers, dies.
 
 Wafer level processing jigs are for 4in wafers.
